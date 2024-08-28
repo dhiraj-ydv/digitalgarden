@@ -1,5 +1,5 @@
 ---
-title: How will E-Rupee fit into the digital payments space of India when we already have UPI ?
+title: How India's CBDC Will Fit into Digital Payments
 ---
 
 We are seeing that RBI has launched Indian CBDC known as E-Rupee. Not to be confused with e-RUPI(which is Prepaid Vouchers from government of India).
