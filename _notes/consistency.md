@@ -1,7 +1,11 @@
 ---
-title: Consistency is key
+title: List of my favorite Anime
 ---
 
-Show up. Do the work. Be consistent.
-
-Then go take a look at the [[Your first note|first note]].
+Blue Lock
+Wind Breaker
+Spy X Family
+Haikyu!!
+Kaguya-sama: Love Is War
+Mob Psycho 100
+Kuroko's Basketball
