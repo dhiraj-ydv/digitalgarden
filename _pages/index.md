@@ -9,7 +9,7 @@ permalink: /
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 
-  Take a look at <span style="font-weight: bold"><a href="{{ site.baseurl }}/digital-rupee" class="internal-link">How India's CBDC Will Fit into Digital Payments</a></span> to get started on your exploration.
+Take a look at <span style="font-weight: bold"><a href="{{ site.baseurl }}/digital-rupee" class="internal-link">How India's CBDC Will Fit into Digital Payments</a></span> to get started on your exploration.
 
 </p>
 
