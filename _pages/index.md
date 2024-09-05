@@ -8,8 +8,9 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  UPSC PREP
-  <span style="font-weight: bold"><a href="https://dhirajyadav.notion.site/ea379fd52dfd472aaf0bc6f3a9377255?v=fdf72fb9e8184b3cb8031bed76bb4ac4" class="external-link">Economics Notebook</a></span>
+
+  Take a look at <span style="font-weight: bold"><a href="{{ site.baseurl }}/digital-rupee" class="internal-link">How India's CBDC Will Fit into Digital Payments</a></span> to get started on your exploration.
+
 </p>
 
 <strong>Recently updated notes</strong>
