@@ -1,9 +1,6 @@
-# CLASS-25
-
-Created by: Dhiraj Yadav
-Created on: September 21, 2024 10:38 AM
-Edited on: September 21, 2024 1:14 PM
-Tags: CN
+---
+title: Class 25
+---
 
 # HOW TO PREVENT MONEY LAUNDERING
 
