@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Garden
+title: Garden 🌱
 id: garden
 permalink: /garden
 ---
-
-# Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 
