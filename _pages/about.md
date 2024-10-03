@@ -27,7 +27,6 @@ I also enjoy playing tactical first-person shooter games.</p>
 </ul>
 
 <h2>SKILLS</h2>
-            <div class="skill-category">
                 <h3>Languages & Frameworks</h3>
                 <ul class="skills-list">
                     <li>Python</li>
@@ -37,15 +36,11 @@ I also enjoy playing tactical first-person shooter games.</p>
                     <li>JS</li>
                     <li>C</li>
                 </ul>
-            </div>
-            <div class="skill-category">
                 <h3>Databases</h3>
                 <ul class="skills-list">
                     <li>MongoDB</li>
                     <li>MySQL</li>
                 </ul>
-            </div>
-            <div class="skill-category">
                 <h3>Other</h3>
                 <ul class="skills-list">
                     <li>Docker</li>
