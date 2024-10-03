@@ -4,20 +4,14 @@ title: About
 permalink: /
 ---
 
-<section id="about">
-
 # Welcome!
 
-I'm enthusiastic about learning and discussing technology, polity and governance, cosmology, sociology, and qualitative fundamental analysis.
+<p I'm enthusiastic about learning and discussing technology, polity and governance, cosmology, sociology, and qualitative fundamental analysis.
 Favorite genres are science fiction, thriller, and sports anime.
-I also enjoy playing tactical first-person shooter games.
-</section>
+I also enjoy playing tactical first-person shooter games.>
 
-  <section id="education">
-    <div className="wrapper">
-        <div class="container">
-            <h2>EDUCATION</h2>
-            <ul class="education-list">
+<h2>EDUCATION</h2>
+<ul>
 <li>
                     <h3>Manipal University Jaipur</h3>
                     <p>BCA, 2020 - 2023</p>
@@ -30,15 +24,9 @@ I also enjoy playing tactical first-person shooter games.
                     <h3>Podar GPS Nawalgarh</h3>
                     <p>Secondary Education, - 2018</p>
                 </li>
-            </ul>
-        </div>
-        </div>
-    </section>
+</ul>
 
-<section id="skills">
-<div className="wrapper">
-        <div class="container">
-            <h2>SKILLS</h2>
+<h2>SKILLS</h2>
             <div class="skill-category">
                 <h3>Languages & Frameworks</h3>
                 <ul class="skills-list">
@@ -69,8 +57,4 @@ I also enjoy playing tactical first-person shooter games.
                     <li>SSG</li>
                     <li>Gunicorn</li>
                     <li>Hypervisor</li>
-                </ul>
-            </div>
-        </div>
-        </div>
-    </section>
+</ul>
