@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Home
-id: home
+title: Garden
+id: garden
 permalink: /
 ---
 
