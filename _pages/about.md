@@ -4,19 +4,14 @@ title: About
 permalink: /
 ---
 
- <section id="about">
-    <div className="space-y-4">
-    <div className="wrapper">
-      <h3 className="section-header">Welcome! 👨</h3>
-      <p className="section-content">
-        I'm enthusiastic about learning and discussing technology, polity and governance, 
-        cosmology, sociology, and qualitative fundamental analysis.
+<section id="about">
+
+# Welcome!
+
+I'm enthusiastic about learning and discussing technology, polity and governance, cosmology, sociology, and qualitative fundamental analysis.
 Favorite genres are science fiction, thriller, and sports anime.
 I also enjoy playing tactical first-person shooter games.
-      </p>
-    </div>
-      </div>
-  </section>
+</section>
 
   <section id="education">
     <div className="wrapper">
