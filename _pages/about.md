@@ -41,7 +41,7 @@ Feel free to explore my <a href="https://digitalgarden.dhirajyadav.site/">Digita
         </div>
     </section>
 
-    <section id="skills">
+<section id="skills">
 <div className="wrapper">
         <div class="container">
             <h2>SKILLS</h2>
