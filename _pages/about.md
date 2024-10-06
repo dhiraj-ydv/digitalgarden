@@ -6,7 +6,8 @@ permalink: /
 
 # Welcome!
 
-<p>I'm enthusiastic about learning and discussing technology, polity and governance, cosmology, sociology, and qualitative fundamental analysis.
+<p>I'm enthusiastic about learning and discussing technology, polity and governance, cosmology, sociology, qualitative fundamental analysis, and more.
+I consider myself a first principles thinker, always breaking down complex ideas to understand them from the ground up.
 Favorite genres are science fiction, thriller, and sports anime.
 I also enjoy playing tactical first-person shooter games.</p>
 
