@@ -8,6 +8,7 @@ permalink: /
 
 <p>I'm enthusiastic about learning and discussing technology, polity and governance, cosmology, sociology, and qualitative fundamental analysis.
 Favorite genres are science fiction, thriller, and sports anime.
+I see myself as someone who thinks from first principles..
 I also enjoy playing tactical first-person shooter games.</p>
 
 <h2>EDUCATION</h2>
